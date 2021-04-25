@@ -9,7 +9,7 @@ In this fun, little game, you have to guess, wheter a randomly generated number 
  - Save your score across sessions
  - reset your score 
  - recover your last score
- - see your Highscores (a highscore, is the score, thats safed, once you reset your score)
+ - see your highscore history (a highscore, is the score, thats saved, once you reset your score)
 
 **3. Download and Installation:** 
 
