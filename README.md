@@ -11,6 +11,7 @@ In this fun, little game, you have to guess, wheter a randomly generated number 
  - see your Highscores (a highscore, is the score, thats safed, once you reset your score)
 
 **Download and Installation**
+
 You can download the App from the Google Play Store here:[https://play.google.com/store/apps/details?id=de.higherorlower.bektroid]
 
 **Thank your for using my App. Feel free to leave my any feedback.**
